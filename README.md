@@ -1,5 +1,5 @@
 # Evaluate-the-effectiveness-of-marketing-campaigns
-So sánh các chiến dịch Marketing đã và đang thực hiện nhằm mục đích có thể loại bỏ các chiến dịch kém hiệu quả và tập trung nguồn lực cho các chiến dịch đạt được hiệu quả cao.
+Đánh giá hiệu quả của các chiến dịch Marketing đã và đang thực hiện nhằm mục đích có thể loại bỏ các chiến dịch kém hiệu quả và tập trung nguồn lực cho các chiến dịch đạt được hiệu quả cao.
 
 Tổng quan dự án (Project Overview)
 Dự án này tập trung vào việc phân tích dữ liệu từ các chiến dịch Marketing (Facebook Ads, Google Ads, Email Marketing) để đánh giá hiệu quả đầu tư. Mục tiêu chính là xác định các kênh mang lại giá trị cao nhất, tối ưu hóa chi phí thu hút khách hàng (CAC) và cải thiện tỷ lệ lợi nhuận trên chi phí quảng cáo (ROAS).
